@@ -1,6 +1,6 @@
-from pycounts import pycounts
+from pycountsnmdsci import pycounts
 
-from pycounts.pycounts import count_words
+from pycountsnmdsci.pycounts import count_words
 from collections import Counter
 
 def test_count_words():

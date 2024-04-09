@@ -14,8 +14,8 @@ $ pip install pycounts
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts-nmdsci.pycounts import count_words
+from pycounts-nmdsci.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
